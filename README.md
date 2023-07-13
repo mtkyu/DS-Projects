@@ -1,2 +1,2 @@
 # DS-Projects
-A bunch of data science projects
+Where I store my data science projects.
